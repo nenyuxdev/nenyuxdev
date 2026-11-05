@@ -1,0 +1,363 @@
+{
+ "key": "d2e78870",
+ "stars": 2,
+ "contributions": 57,
+ "repos": 25,
+ "followers": 7,
+ "languages": [
+  [
+   "Python",
+   13142
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 5,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 5
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "OpCore-Simplify",
+   "url": "https://github.com/nenyuxdev/OpCore-Simplify",
+   "text": "A tool designed to simplify the creation of OpenCore EFI",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "fdlclient",
+   "url": "https://github.com/nenyuxdev/fdlclient",
+   "text": "Extraer solo los fdls de un firmware",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "spd",
+    "unisoc"
+   ]
+  },
+  {
+   "name": "usbliter8",
+   "url": "https://github.com/nenyuxdev/usbliter8",
+   "text": "Archivos uf2 oficiales de Paradigm",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": [
+    "ios",
+    "ipad",
+    "iphone",
+    "usbliter8"
+   ]
+  },
+  {
+   "name": "nenyuxdev",
+   "url": "https://github.com/nenyuxdev/nenyuxdev",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "sideloadclient",
+   "url": "https://github.com/nenyuxdev/sideloadclient",
+   "text": "Una herramienta CLI portátil desarrollada en Python diseñada específicamente para la scene de Android, permitiendo flashear de forma limpia y rápida Custom ROMs, custom recoveries, imágenes de root, y kernels (en formato AnyKernel)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "android",
+    "fastboot",
+    "kernelsu",
+    "sideload"
+   ]
+  },
+  {
+   "name": "ReZygisk",
+   "url": "https://github.com/nenyuxdev/ReZygisk",
+   "text": "Transparent implementation of Zygisk.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "mi8e5-cve-2026-43499",
+   "url": "https://github.com/nenyuxdev/mi8e5-cve-2026-43499",
+   "text": "Multi OS Support: Version for MacOS/Linux and Windows, Fully translated to English",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "tr4mpass",
+   "url": "https://github.com/nenyuxdev/tr4mpass",
+   "text": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "samsung-frp-bypass",
+   "url": "https://github.com/nenyuxdev/samsung-frp-bypass",
+   "text": "Samsung FRP Bypass",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "PAC-Extractor",
+   "url": "https://github.com/nenyuxdev/PAC-Extractor",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ipwndfu",
+   "url": "https://github.com/nenyuxdev/ipwndfu",
+   "text": "open-source jailbreaking tool for many iOS devices",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Xiaomi_Kernel_OpenSource",
+   "url": "https://github.com/nenyuxdev/Xiaomi_Kernel_OpenSource",
+   "text": "Xiaomi Mobile Phone Kernel OpenSource",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Poco-X5-5G-Kernel",
+   "url": "https://github.com/nenyuxdev/Poco-X5-5G-Kernel",
+   "text": "Kernel para Poco X5 5G",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "HyperSploit",
+   "url": "https://github.com/nenyuxdev/HyperSploit",
+   "text": "Bypasses HyperOS restrictions on bootloader unlocking",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "sprdclient",
+   "url": "https://github.com/nenyuxdev/sprdclient",
+   "text": "A friendly Spreadtrum / Unisoc flashing tool.",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "mtkclient",
+   "url": "https://github.com/nenyuxdev/mtkclient",
+   "text": "Mediatek Flash and Repair Utility",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Kirin-Tool",
+   "url": "https://github.com/nenyuxdev/Kirin-Tool",
+   "text": "The best free Huawei tool",
+   "fork": true,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "penumbra",
+   "url": "https://github.com/nenyuxdev/penumbra",
+   "text": "🌘 MTK flash tool written in rust",
+   "fork": true,
+   "stars": 0,
+   "language": "Rust",
+   "topics": []
+  },
+  {
+   "name": "bypass_payloads",
+   "url": "https://github.com/nenyuxdev/bypass_payloads",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "spd_dump",
+   "url": "https://github.com/nenyuxdev/spd_dump",
+   "text": "Spreadtrum firmware dumper",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "exploits_collection",
+   "url": "https://github.com/nenyuxdev/exploits_collection",
+   "text": "exploits para socs mtk",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "kamakiri",
+   "url": "https://github.com/nenyuxdev/kamakiri",
+   "text": "Another bootrom exploit for MediaTek devices",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "Spdclient",
+   "url": "https://github.com/nenyuxdev/Spdclient",
+   "text": "SPDClient BootROM access level tool",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "serpantinum",
+   "url": "https://github.com/nenyuxdev/serpantinum",
+   "text": "A shell for wayland compositors",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "Edlclient",
+   "url": "https://github.com/nenyuxdev/Edlclient",
+   "text": "Inofficial Qualcomm Firehose / Sahara / Streaming / Diag Tools :)",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
