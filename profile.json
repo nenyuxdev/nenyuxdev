@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "login": "nenyuxdev",
+  "seed": "#000000",
+  "seedFromAvatar": false,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "stats",
+    "projects",
+    "streak",
+    "wave",
+    "buttons",
+    "socials",
+    "stack"
+  ],
+  "hidden": [
+    "socials",
+    "stack",
+    "streak",
+    "stats",
+    "buttons",
+    "wave"
+  ],
+  "hero": {
+    "greeting": "",
+    "name": "",
+    "subtitle": "Entusiasta de los exploits en hardware",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Venezuela"
+      },
+      {
+        "icon": "brand:python",
+        "label": "Python"
+      },
+      {
+        "icon": "android",
+        "label": "Software technician"
+      },
+      {
+        "icon": "star",
+        "label": "New"
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre mi",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Me gusta estudiar exploits y modificar dispositivos"
+      },
+      {
+        "icon": "code",
+        "label": "Desarrollo herramientas automatizadas"
+      },
+      {
+        "icon": "brand:linux",
+        "label": "Uso archlinux por cierto."
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "fdlclient",
+      "sideloadclient"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Racha",
+    "current": "Racha actual",
+    "longest": "El más largo de este año",
+    "days": "dias"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:tiktok",
+        "url": "https://www.tiktok.com/@nenydev"
+      },
+      {
+        "icon": "brand:github",
+        "url": "https://"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}
