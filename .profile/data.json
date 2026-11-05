@@ -1,8 +1,8 @@
 {
- "key": "d2e78870",
- "stars": 2,
- "contributions": 57,
- "repos": 25,
+ "key": "55583b53",
+ "stars": 1,
+ "contributions": 55,
+ "repos": 24,
  "followers": 7,
  "languages": [
   [
@@ -140,20 +140,6 @@
    "topics": [
     "spd",
     "unisoc"
-   ]
-  },
-  {
-   "name": "usbliter8",
-   "url": "https://github.com/nenyuxdev/usbliter8",
-   "text": "Archivos uf2 oficiales de Paradigm",
-   "fork": false,
-   "stars": 1,
-   "language": null,
-   "topics": [
-    "ios",
-    "ipad",
-    "iphone",
-    "usbliter8"
    ]
   },
   {
