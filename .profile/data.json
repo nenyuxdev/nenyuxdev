@@ -1,8 +1,8 @@
 {
- "key": "5594794",
+ "key": "6c262ea4",
  "stars": 1,
- "contributions": 55,
- "repos": 24,
+ "contributions": 57,
+ "repos": 26,
  "followers": 7,
  "languages": [
   [
@@ -112,7 +112,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 6,
     "today": true
    },
@@ -120,7 +120,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 3,
   "longest": 5
  },
  "pins": [],
@@ -145,6 +145,24 @@
     "spd",
     "unisoc"
    ]
+  },
+  {
+   "name": "ios-sweet",
+   "url": "https://github.com/nenyuxdev/ios-sweet",
+   "text": "iOS 16 userland + XNU on Redmi Note 10 Pro (sweet, SM7150)",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ios-sunstone",
+   "url": "https://github.com/nenyuxdev/ios-sunstone",
+   "text": "iOS 16 (XNU xnu-8796 + iPhone X 16.7.16 userland) on the Redmi Note 12 5G sunstone (SM4375), with a CI that builds the boot image and root image",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
   },
   {
    "name": "nenyuxdev",
