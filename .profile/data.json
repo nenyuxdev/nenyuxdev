@@ -1,13 +1,29 @@
 {
- "key": "6111b696",
+ "key": "a923af5a",
  "stars": 1,
- "contributions": 56,
- "repos": 25,
+ "contributions": 67,
+ "repos": 26,
  "followers": 7,
  "languages": [
   [
    "Python",
-   13142
+   69579
+  ],
+  [
+   "C",
+   46545
+  ],
+  [
+   "Assembly",
+   2493
+  ],
+  [
+   "C++",
+   1771
+  ],
+  [
+   "Linker Script",
+   381
   ]
  ],
  "days": [
@@ -112,19 +128,19 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 9,
     "day": 6,
     "today": false
    },
    {
-    "c": 0,
+    "c": 3,
     "day": 7,
     "today": true
    }
   ]
  ],
  "streak": {
-  "current": 3,
+  "current": 4,
   "longest": 5
  },
  "pins": [],
@@ -151,12 +167,21 @@
    ]
   },
   {
-   "name": "ios-moonstone",
-   "url": "https://github.com/nenyuxdev/ios-moonstone",
+   "name": "ios-stone",
+   "url": "https://github.com/nenyuxdev/ios-stone",
    "text": "iOS 16 (XNU xnu-8796 + iPhone X 16.7.16 userland) Poco X5 5G moonstone (SM6375 blair): boots to SpringBoard on 8 cores with touch, keys and GPU-assisted display",
    "fork": true,
    "stars": 0,
    "language": "C",
+   "topics": []
+  },
+  {
+   "name": "ios-moonstone",
+   "url": "https://github.com/nenyuxdev/ios-moonstone",
+   "text": "Arrancar iOS 16.7.16 de iPhone X en Poco X5 5G",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
    "topics": []
   },
   {
