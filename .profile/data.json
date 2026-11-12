@@ -1,5 +1,5 @@
 {
- "key": "db30445e",
+ "key": "8b31509f",
  "stars": 1,
  "contributions": 68,
  "repos": 27,
@@ -120,9 +120,13 @@
    {
     "c": 1,
     "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
     "today": true
    },
-   null,
    null,
    null
   ]
